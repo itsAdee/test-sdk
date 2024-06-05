@@ -13,11 +13,11 @@ The package is compatible with Python versions `3 >=3.7, <= 3.11`.
 Install the package from PyPi using the following pip command:
 
 ```python
-pip install test-sdk==1.3.0
+pip install ThingspaceClone-Python-SDK==1.3.0
 ```
 
 You can also view the package at:
-https://pypi.python.org/pypi/test-sdk/1.3.0
+https://pypi.python.org/pypi/ThingspaceClone-Python-SDK/1.3.0
 
 ## Initialize the API Client
 
